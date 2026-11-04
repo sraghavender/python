@@ -1,0 +1,6 @@
+print("add two numbers")
+print(2+2)
+print("subtract two numbers")
+print(10-5)
+print("multiple two numbers")
+print(10*6)
